@@ -1,0 +1,135 @@
+{
+	"blocks":
+	[
+		{
+		"name": "Ash Blinds",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "ash-blinds",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Aspen Blinds",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "aspen-blinds",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Chestnut Blinds",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "chestnut-blinds",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Douglas Fir Blinds",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "douglasfir-blinds",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Hickory Blinds",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "hickory-blinds",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Kapok Blinds",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "kapok-blinds",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Maple Blinds",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "maple-blinds",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Pine Blinds",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "pine-blinds",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Sequoia Blinds",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "sequoia-blinds",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Sycamore Blinds",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "sycamore-blinds",
+		"toolClass":"axe"
+		},
+		{
+		"name": "White Cedar Blinds",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "whitecedar-blinds",
+		"toolClass":"axe"
+		},
+		{
+		"name": "White Elm Blinds",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "whiteelm-blinds",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Willow Blinds",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "willow-blinds",
+		"toolClass":"axe"
+		}
+	]
+}
