@@ -1,0 +1,11 @@
+- Add chisel recipe
+- Improve compatibility of Chisel 2 blocks recipe
+- Create smoothstone and bricks groups
+- Add new variation
+ - Plank
+  - 
+ - Smoothstone
+  -
+ - Bricks
+  -
+- Add jet block (and recipe)
