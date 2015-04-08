@@ -130,6 +130,136 @@
 		"resistance": 40,
 		"textureName": "willow-blinds",
 		"toolClass":"axe"
+		},
+		{
+		"name": "Clean Ash Planks",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "ash-clean",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Clean Aspen Planks",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "aspen-clean",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Clean Chestnut Planks",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "chestnut-clean",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Clean Douglas Fir Planks",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "douglasfir-clean",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Clean Hickory Planks",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "hickory-clean",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Clean Kapok Planks",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "kapok-clean",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Clean Maple Planks",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "maple-clean",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Clean Pine Planks",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "pine-clean",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Clean Sequoia Planks",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "sequoia-clean",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Clean Sycamore Planks",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "sycamore-clean",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Clean White Cedar Planks",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "whitecedar-clean",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Clean White Elm Planks",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "whiteelm-clean",
+		"toolClass":"axe"
+		},
+		{
+		"name": "Clean Willow Planks",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "willow-clean",
+		"toolClass":"axe"
 		}
 	]
 }
