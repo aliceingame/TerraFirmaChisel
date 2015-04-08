@@ -17,5 +17,5 @@ To Install
 
 Credit
 
-TFC wood - Faithful
-Wood Blinds - Blockhead
+- TFC wood - Faithful
+- Wood Blinds - Blockhead
