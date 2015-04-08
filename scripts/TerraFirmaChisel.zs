@@ -39,7 +39,6 @@ mods.chisel.Groups.removeVariation(<minecraft:planks:2>);
 mods.chisel.Groups.removeVariation(<minecraft:planks>);
 mods.chisel.Groups.removeVariation(<minecraft:planks:1>);
 
-
 //Blinds
 mods.chisel.Groups.addVariation("ash_planks",<customitems:ash_blinds>);
 mods.chisel.Groups.addVariation("aspen_planks",<customitems:aspen_blinds>);
