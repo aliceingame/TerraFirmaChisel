@@ -4,5 +4,17 @@
 			"tabLabel":"TerraFirmaChisel",
 			"iconItem":"minecraft:torch"                
 		}
+	],
+	"blocks":[
+		{
+		"name": "Jet Block",
+		"material": "wood",
+		"hardness": 6,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 40,
+		"textureName": "jet-block",
+		"toolClass":"pickaxe"
+		}
 	]
 }
