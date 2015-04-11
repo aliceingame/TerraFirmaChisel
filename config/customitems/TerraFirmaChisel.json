@@ -8,7 +8,7 @@
 	"blocks":[
 		{
 		"name": "Jet Block",
-		"material": "wood",
+		"material": "rock",
 		"hardness": 6,
 		"creativeTab":"TerraFirmaChisel",
 		"maxStackSize":"32",
