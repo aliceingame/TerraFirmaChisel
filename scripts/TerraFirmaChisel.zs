@@ -81,14 +81,127 @@ mods.chisel.Groups.addVariation("spruce_planks",<chisel:spruce_planks:1>);
 
 
 //Smooth stone groups
+mods.chisel.Groups.addGroup("limestone-smooth");
+mods.chisel.Groups.addGroup("marble-smooth");
+mods.chisel.Groups.addGroup("diorite-smooth");
+mods.chisel.Groups.addGroup("granite-smooth");
+mods.chisel.Groups.addGroup("andesite-smooth");
+
+mods.chisel.Groups.addGroup("chalk-smooth");
+mods.chisel.Groups.addGroup("chert-smooth");
+mods.chisel.Groups.addGroup("claystone-smooth");
+mods.chisel.Groups.addGroup("conglomerate-smooth");
+mods.chisel.Groups.addGroup("dolomite-smooth");
+mods.chisel.Groups.addGroup("rocksalt-smooth");
+mods.chisel.Groups.addGroup("shale-smooth");
+mods.chisel.Groups.addGroup("gneiss-smooth");
+mods.chisel.Groups.addGroup("phyllite-smooth");
+mods.chisel.Groups.addGroup("quartzite-smooth");
+mods.chisel.Groups.addGroup("schist-smooth");
+mods.chisel.Groups.addGroup("slate-smooth");
+mods.chisel.Groups.addGroup("gabbro-smooth");
+mods.chisel.Groups.addGroup("basalt-smooth");
+mods.chisel.Groups.addGroup("dacite-smooth");
+mods.chisel.Groups.addGroup("rhyolite-smooth");
 
 //Smooth stone variations
+mods.chisel.Groups.addVariation("limestone-smooth",<terrafirmacraft:StoneSedSmooth:3>);
+mods.chisel.Groups.addVariation("marble-smooth",<terrafirmacraft:StoneMMSmooth:5>);
+mods.chisel.Groups.addVariation("diorite-smooth",<terrafirmacraft:StoneIgInSmooth:1>);
+mods.chisel.Groups.addVariation("granite-smooth",<terrafirmacraft:StoneIgInSmooth>);
+mods.chisel.Groups.addVariation("andesite-smooth",<terrafirmacraft:StoneIgExSmooth:2>);
+mods.chisel.Groups.addVariation("chalk-smooth",<terrafirmacraft:StoneSedSmooth:7>);
+mods.chisel.Groups.addVariation("chert-smooth",<terrafirmacraft:StoneSedSmooth:6>);
+mods.chisel.Groups.addVariation("claystone-smooth",<terrafirmacraft:StoneSedSmooth:1>);
+mods.chisel.Groups.addVariation("conglomerate-smooth",<terrafirmacraft:StoneSedSmooth:4>);
+mods.chisel.Groups.addVariation("dolomite-smooth",<terrafirmacraft:StoneSedSmooth:5>);
+mods.chisel.Groups.addVariation("rocksalt-smooth",<terrafirmacraft:StoneSedSmooth:2>);
+mods.chisel.Groups.addVariation("shale-smooth",<terrafirmacraft:StoneSedSmooth>);
+mods.chisel.Groups.addVariation("gneiss-smooth",<terrafirmacraft:StoneMMSmooth:4>);
+mods.chisel.Groups.addVariation("phyllite-smooth",<terrafirmacraft:StoneMMSmooth:2>);
+mods.chisel.Groups.addVariation("quartzite-smooth",<terrafirmacraft:StoneMMSmooth>);
+mods.chisel.Groups.addVariation("schist-smooth",<terrafirmacraft:StoneMMSmooth:3>);
+mods.chisel.Groups.addVariation("slate-smooth",<terrafirmacraft:StoneMMSmooth:1>);
+mods.chisel.Groups.addVariation("gabbro-smooth",<terrafirmacraft:StoneIgInSmooth:2>);
+mods.chisel.Groups.addVariation("basalt-smooth",<terrafirmacraft:StoneIgExSmooth:1>);
+mods.chisel.Groups.addVariation("dacite-smooth",<terrafirmacraft:StoneIgExSmooth:3>);
+mods.chisel.Groups.addVariation("rhyolite-smooth",<terrafirmacraft:StoneIgExSmooth>);
 
+//Chisel 2 smoth stone regroup
+mods.chisel.Groups.addVariation("limestone-smooth",<chisel:limestone:15>);
+mods.chisel.Groups.addVariation("limestone-smooth",<chisel:limestone:14>);
+mods.chisel.Groups.addVariation("limestone-smooth",<chisel:limestone:12>);
+mods.chisel.Groups.addVariation("limestone-smooth",<chisel:limestone:11>);
+mods.chisel.Groups.addVariation("limestone-smooth",<chisel:limestone:10>);
+mods.chisel.Groups.addVariation("limestone-smooth",<chisel:limestone:9>);
+mods.chisel.Groups.addVariation("limestone-smooth",<chisel:limestone:8>);
+//add marble
+mods.chisel.Groups.addVariation("diorite-smooth",<chisel:diorite:2>);
+mods.chisel.Groups.addVariation("diorite-smooth",<chisel:diorite:3>);
+//add granite
+//add andesite
 
 //Brick groups
+mods.chisel.Groups.addGroup("limestone-brick");
+mods.chisel.Groups.addGroup("limestone-brick");
+mods.chisel.Groups.addGroup("marble-brick");
+mods.chisel.Groups.addGroup("diorite-brick");
+mods.chisel.Groups.addGroup("granite-brick");
+mods.chisel.Groups.addGroup("andesite-brick");
+mods.chisel.Groups.addGroup("chalk-brick");
+mods.chisel.Groups.addGroup("chert-brick");
+mods.chisel.Groups.addGroup("claystone-brick");
+mods.chisel.Groups.addGroup("conglomerate-brick");
+mods.chisel.Groups.addGroup("dolomite-brick");
+mods.chisel.Groups.addGroup("rocksalt-brick");
+mods.chisel.Groups.addGroup("shale-brick");
+mods.chisel.Groups.addGroup("gneiss-brick");
+mods.chisel.Groups.addGroup("phyllite-brick");
+mods.chisel.Groups.addGroup("quartzite-brick");
+mods.chisel.Groups.addGroup("schist-brick");
+mods.chisel.Groups.addGroup("slate-brick");
+mods.chisel.Groups.addGroup("gabbro-brick");
+mods.chisel.Groups.addGroup("basalt-brick");
+mods.chisel.Groups.addGroup("dacite-brick");
+mods.chisel.Groups.addGroup("rhyolite-brick");
 
 //Brick variations
+mods.chisel.Groups.addVariation("limestone-brick",<terrafirmacraft:>);
+mods.chisel.Groups.addVariation("marble-brick",<terrafirmacraft:>);
+mods.chisel.Groups.addVariation("diorite-brick",<terrafirmacraft:>);
+mods.chisel.Groups.addVariation("granite-brick",<terrafirmacraft:>);
+mods.chisel.Groups.addVariation("andesite-brick",<terrafirmacraft:>);
+mods.chisel.Groups.addVariation("chalk-brick",<terrafirmacraft:>);
+mods.chisel.Groups.addVariation("chert-brick",<terrafirmacraft:>);
+mods.chisel.Groups.addVariation("claystone-brick",<terrafirmacraft:>);
+mods.chisel.Groups.addVariation("conglomerate-brick",<terrafirmacraft:>);
+mods.chisel.Groups.addVariation("dolomite-brick",<terrafirmacraft:>);
+mods.chisel.Groups.addVariation("rocksalt-brick",<terrafirmacraft:>);
+mods.chisel.Groups.addVariation("shale-brick",<terrafirmacraft:>);
+mods.chisel.Groups.addVariation("gneiss-brick",<terrafirmacraft:>);
+mods.chisel.Groups.addVariation("phyllite-brick",<terrafirmacraft:>);
+mods.chisel.Groups.addVariation("quartzite-brick",<terrafirmacraft:>);
+mods.chisel.Groups.addVariation("schist-brick",<terrafirmacraft:>);
+mods.chisel.Groups.addVariation("slate-brick",<terrafirmacraft:>);
+mods.chisel.Groups.addVariation("gabbro-brick",<terrafirmacraft:>);
+mods.chisel.Groups.addVariation("basalt-brick",<terrafirmacraft:>);
+mods.chisel.Groups.addVariation("dacite-brick",<terrafirmacraft:>);
+mods.chisel.Groups.addVariation("rhyolite-brick",<terrafirmacraft:>);
 
+//Chisel 2 stone brick  regroup
+mods.chisel.Groups.addVariation("limestone-brick",<chisel:limestone:13>);
+mods.chisel.Groups.addVariation("limestone-brick",<chisel:limestone:6>);
+mods.chisel.Groups.addVariation("limestone-brick",<chisel:limestone:5>);
+mods.chisel.Groups.addVariation("limestone-brick",<chisel:limestone:4>);
+mods.chisel.Groups.addVariation("limestone-brick",<chisel:limestone:1>);
+mods.chisel.Groups.addVariation("limestone-brick",<chisel:limestone:2>);
+mods.chisel.Groups.addVariation("limestone-brick",<chisel:limestone:3>);
+//add marble
+mods.chisel.Groups.addVariation("diorite-brick",<chisel:diorite:5>);
+mods.chisel.Groups.addVariation("diorite-brick",<chisel:diorite:6>);
+mods.chisel.Groups.addVariation("diorite-brick",<chisel:diorite:3>);
+//add granite
+//add andesite
 
 //Metal blocks groups
 mods.chisel.Groups.addGroup("bismuthblock");
