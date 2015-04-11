@@ -38,6 +38,6 @@ recipes.addShaped(<chisel:fantasyblock> * 8, [[<ore:stone>, <ore:stone>, <ore:st
 
 //Thatch
 mods.chisel.Groups.addGroup("thatch");
-mods.chisel.Groups.addVariation("ash_planks",<terrafirmacraft:thatch>);
-mods.chisel.Groups.addVariation("ash_planks",<minecraft:hay_block>);
+mods.chisel.Groups.addVariation("thatch",<terrafirmacraft:Thatch>);
+mods.chisel.Groups.addVariation("thatch",<minecraft:hay_block>);
 recipes.removeShapeless(<minecraft:wheat> * 9, [<minecraft:hay_block>]);

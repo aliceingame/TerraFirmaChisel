@@ -91,9 +91,76 @@ mods.chisel.Groups.addVariation("spruce_planks",<chisel:spruce_planks:1>);
 
 
 //Metal blocks groups
-
-//Ingots to Metal block recipe
-
-//Metal block to ingots recipe
+mods.chisel.Groups.addGroup("bismuthblock");
+mods.chisel.Groups.addGroup("bismuthbronzeblock");
+mods.chisel.Groups.addGroup("blackbronzeblock");
+mods.chisel.Groups.addGroup("blacksteelblock");
+mods.chisel.Groups.addGroup("bluesteelblock");
+mods.chisel.Groups.addGroup("brassblock");
+mods.chisel.Groups.addGroup("nickelblock");
+mods.chisel.Groups.addGroup("pigironblock");
+mods.chisel.Groups.addGroup("platinumblock");
+mods.chisel.Groups.addGroup("redsteelblock");
+mods.chisel.Groups.addGroup("sterlingsilverblock");
+mods.chisel.Groups.addGroup("unknownblock");
+mods.chisel.Groups.addGroup("zincblock");
 
 //Metal blocks variations
+mods.chisel.Groups.addVariation("copperblock",<customitems:block_of_copper>);
+mods.chisel.Groups.addVariation("bronzeblock",<customitems:block_of_bronze>);
+mods.chisel.Groups.addVariation("leadblock",<customitems:block_of_lead>);
+mods.chisel.Groups.addVariation("silverblock",<customitems:block_of_silver>);
+mods.chisel.Groups.addVariation("steelblock",<customitems:block_of_steel>);
+mods.chisel.Groups.addVariation("tinblock",<customitems:block_of_tin>);
+mods.chisel.Groups.addVariation("bismuthbronzeblock",<customitems:block_of_bismuth_bronze>);
+mods.chisel.Groups.addVariation("blackbronzeblock",<customitems:block_of_black_bronze>);
+mods.chisel.Groups.addVariation("blacksteelblock",<customitems:block_of_black_steel>);
+mods.chisel.Groups.addVariation("bluesteelblock",<customitems:block_of_blue_steel>);
+mods.chisel.Groups.addVariation("brassblock",<customitems:block_of_brass>);
+mods.chisel.Groups.addVariation("nickelblock",<customitems:block_of_nickel>);
+mods.chisel.Groups.addVariation("pigironblock",<customitems:block_of_pig_iron>);
+mods.chisel.Groups.addVariation("platinumblock",<customitems:block_of_platinum>);
+mods.chisel.Groups.addVariation("redsteelblock",<customitems:block_of_red_steel>);
+mods.chisel.Groups.addVariation("sterlingsilverblock",<customitems:block_of_sterling_silver>);
+mods.chisel.Groups.addVariation("unknownblock",<customitems:block_of_unknown_metal>);
+mods.chisel.Groups.addVariation("zincblock",<customitems:block_of_zinc>);
+
+//Ingots to Metal block recipe
+recipes.addShaped(<customitems:block_of_copper>, [[<terrafirmacraft:item.Copper Ingot>, <terrafirmacraft:item.Copper Ingot>, <terrafirmacraft:item.Copper Ingot>], [<terrafirmacraft:item.Copper Ingot>, <terrafirmacraft:item.Copper Ingot>, <terrafirmacraft:item.Copper Ingot>], [<terrafirmacraft:item.Copper Ingot>, <terrafirmacraft:item.Copper Ingot>, <terrafirmacraft:item.Copper Ingot>]]);
+recipes.addShaped(<customitems:block_of_bronze>, [[<terrafirmacraft:item.Bronze Ingot>, <terrafirmacraft:item.Bronze Ingot>, <terrafirmacraft:item.Bronze Ingot>], [<terrafirmacraft:item.Bronze Ingot>, <terrafirmacraft:item.Bronze Ingot>, <terrafirmacraft:item.Bronze Ingot>], [<terrafirmacraft:item.Bronze Ingot>, <terrafirmacraft:item.Bronze Ingot>, <terrafirmacraft:item.Bronze Ingot>]]);
+recipes.addShaped(<customitems:block_of_lead>, [[<terrafirmacraft:item.Lead Ingot>, <terrafirmacraft:item.Lead Ingot>, <terrafirmacraft:item.Lead Ingot>], [<terrafirmacraft:item.Lead Ingot>, <terrafirmacraft:item.Lead Ingot>, <terrafirmacraft:item.Lead Ingot>], [<terrafirmacraft:item.Lead Ingot>, <terrafirmacraft:item.Lead Ingot>, <terrafirmacraft:item.Lead Ingot>]]);
+recipes.addShaped(<customitems:block_of_silver>, [[<terrafirmacraft:item.Silver Ingot>, <terrafirmacraft:item.Silver Ingot>, <terrafirmacraft:item.Silver Ingot>], [<terrafirmacraft:item.Silver Ingot>, <terrafirmacraft:item.Silver Ingot>, <terrafirmacraft:item.Silver Ingot>], [<terrafirmacraft:item.Silver Ingot>, <terrafirmacraft:item.Silver Ingot>, <terrafirmacraft:item.Silver Ingot>]]);
+recipes.addShaped(<customitems:block_of_steel>, [[<terrafirmacraft:item.Steel Ingot>, <terrafirmacraft:item.Steel Ingot>, <terrafirmacraft:item.Steel Ingot>], [<terrafirmacraft:item.Steel Ingot>, <terrafirmacraft:item.Steel Ingot>, <terrafirmacraft:item.Steel Ingot>], [<terrafirmacraft:item.Steel Ingot>, <terrafirmacraft:item.Steel Ingot>, <terrafirmacraft:item.Steel Ingot>]]);
+recipes.addShaped(<customitems:block_of_tin>, [[<terrafirmacraft:item.Tin Ingot>, <terrafirmacraft:item.Tin Ingot>, <terrafirmacraft:item.Tin Ingot>], [<terrafirmacraft:item.Tin Ingot>, <terrafirmacraft:item.Tin Ingot>, <terrafirmacraft:item.Tin Ingot>], [<terrafirmacraft:item.Tin Ingot>, <terrafirmacraft:item.Tin Ingot>, <terrafirmacraft:item.Tin Ingot>]]);
+recipes.addShaped(<customitems:block_of_bismuth_bronze>, [[<terrafirmacraft:item.Bismuth Bronze Ingot>, <terrafirmacraft:item.Bismuth Bronze Ingot>, <terrafirmacraft:item.Bismuth Bronze Ingot>], [<terrafirmacraft:item.Bismuth Bronze Ingot>, <terrafirmacraft:item.Bismuth Bronze Ingot>, <terrafirmacraft:item.Bismuth Bronze Ingot>], [<terrafirmacraft:item.Bismuth Bronze Ingot>, <terrafirmacraft:item.Bismuth Bronze Ingot>, <terrafirmacraft:item.Bismuth Bronze Ingot>]]);
+recipes.addShaped(<customitems:block_of_black_bronze>, [[<terrafirmacraft:item.Black Bronze Ingot>, <terrafirmacraft:item.Black Bronze Ingot>, <terrafirmacraft:item.Black Bronze Ingot>], [<terrafirmacraft:item.Black Bronze Ingot>, <terrafirmacraft:item.Black Bronze Ingot>, <terrafirmacraft:item.Black Bronze Ingot>], [<terrafirmacraft:item.Black Bronze Ingot>, <terrafirmacraft:item.Black Bronze Ingot>, <terrafirmacraft:item.Black Bronze Ingot>]]);
+recipes.addShaped(<customitems:block_of_black_steel>, [[<terrafirmacraft:item.Black Steel Ingot>, <terrafirmacraft:item.Black Steel Ingot>, <terrafirmacraft:item.Black Steel Ingot>], [<terrafirmacraft:item.Black Steel Ingot>, <terrafirmacraft:item.Black Steel Ingot>, <terrafirmacraft:item.Black Steel Ingot>], [<terrafirmacraft:item.Black Steel Ingot>, <terrafirmacraft:item.Black Steel Ingot>, <terrafirmacraft:item.Black Steel Ingot>]]);
+recipes.addShaped(<customitems:block_of_blue_steel>, [[<terrafirmacraft:item.Blue Steel Ingot>, <terrafirmacraft:item.Blue Steel Ingot>, <terrafirmacraft:item.Blue Steel Ingot>], [<terrafirmacraft:item.Blue Steel Ingot>, <terrafirmacraft:item.Blue Steel Ingot>, <terrafirmacraft:item.Blue Steel Ingot>], [<terrafirmacraft:item.Blue Steel Ingot>, <terrafirmacraft:item.Blue Steel Ingot>, <terrafirmacraft:item.Blue Steel Ingot>]]);
+recipes.addShaped(<customitems:block_of_brass>, [[<terrafirmacraft:item.Brass Ingot>, <terrafirmacraft:item.Brass Ingot>, <terrafirmacraft:item.Brass Ingot>], [<terrafirmacraft:item.Brass Ingot>, <terrafirmacraft:item.Brass Ingot>, <terrafirmacraft:item.Brass Ingot>], [<terrafirmacraft:item.Brass Ingot>, <terrafirmacraft:item.Brass Ingot>, <terrafirmacraft:item.Brass Ingot>]]);
+recipes.addShaped(<customitems:block_of_nickel>, [[<terrafirmacraft:item.Nickel Ingot>, <terrafirmacraft:item.Nickel Ingot>, <terrafirmacraft:item.Nickel Ingot>], [<terrafirmacraft:item.Nickel Ingot>, <terrafirmacraft:item.Nickel Ingot>, <terrafirmacraft:item.Nickel Ingot>], [<terrafirmacraft:item.Nickel Ingot>, <terrafirmacraft:item.Nickel Ingot>, <terrafirmacraft:item.Nickel Ingot>]]);
+recipes.addShaped(<customitems:block_of_pig_iron>, [[<terrafirmacraft:item.Pig Iron Ingot>, <terrafirmacraft:item.Pig Iron Ingot>, <terrafirmacraft:item.Pig Iron Ingot>], [<terrafirmacraft:item.Pig Iron Ingot>, <terrafirmacraft:item.Pig Iron Ingot>, <terrafirmacraft:item.Pig Iron Ingot>], [<terrafirmacraft:item.Pig Iron Ingot>, <terrafirmacraft:item.Pig Iron Ingot>, <terrafirmacraft:item.Pig Iron Ingot>]]);
+recipes.addShaped(<customitems:block_of_platinum>, [[<terrafirmacraft:item.Platinum Ingot>, <terrafirmacraft:item.Platinum Ingot>, <terrafirmacraft:item.Platinum Ingot>], [<terrafirmacraft:item.Platinum Ingot>, <terrafirmacraft:item.Platinum Ingot>, <terrafirmacraft:item.Platinum Ingot>], [<terrafirmacraft:item.Platinum Ingot>, <terrafirmacraft:item.Platinum Ingot>, <terrafirmacraft:item.Platinum Ingot>]]);
+recipes.addShaped(<customitems:block_of_red_steel>, [[<terrafirmacraft:item.Red Steel Ingot>, <terrafirmacraft:item.Red Steel Ingot>, <terrafirmacraft:item.Red Steel Ingot>], [<terrafirmacraft:item.Red Steel Ingot>, <terrafirmacraft:item.Red Steel Ingot>, <terrafirmacraft:item.Red Steel Ingot>], [<terrafirmacraft:item.Red Steel Ingot>, <terrafirmacraft:item.Red Steel Ingot>, <terrafirmacraft:item.Red Steel Ingot>]]);
+recipes.addShaped(<customitems:block_of_sterling_silver>, [[<terrafirmacraft:item.Sterling Silver Ingot>, <terrafirmacraft:item.Sterling Silver Ingot>, <terrafirmacraft:item.Sterling Silver Ingot>], [<terrafirmacraft:item.Sterling Silver Ingot>, <terrafirmacraft:item.Sterling Silver Ingot>, <terrafirmacraft:item.Sterling Silver Ingot>], [<terrafirmacraft:item.Sterling Silver Ingot>, <terrafirmacraft:item.Sterling Silver Ingot>, <terrafirmacraft:item.Sterling Silver Ingot>]]);
+recipes.addShaped(<customitems:block_of_unknown_metal>, [[<terrafirmacraft:item.Unknown Ingot>, <terrafirmacraft:item.Unknown Ingot>, <terrafirmacraft:item.Unknown Ingot>], [<terrafirmacraft:item.Unknown Ingot>, <terrafirmacraft:item.Unknown Ingot>, <terrafirmacraft:item.Unknown Ingot>], [<terrafirmacraft:item.Unknown Ingot>, <terrafirmacraft:item.Unknown Ingot>, <terrafirmacraft:item.Unknown Ingot>]]);
+recipes.addShaped(<customitems:block_of_zinc>, [[<terrafirmacraft:item.Zinc Ingot>, <terrafirmacraft:item.Zinc Ingot>, <terrafirmacraft:item.Zinc Ingot>], [<terrafirmacraft:item.Zinc Ingot>, <terrafirmacraft:item.Zinc Ingot>, <terrafirmacraft:item.Zinc Ingot>], [<terrafirmacraft:item.Zinc Ingot>, <terrafirmacraft:item.Zinc Ingot>, <terrafirmacraft:item.Zinc Ingot>]]);
+
+//Metal block to ingots recipe
+recipes.addShapeless(<terrafirmacraft:item.Copper Ingot> * 9, [<customitems:block_of_copper>]);
+recipes.addShapeless(<terrafirmacraft:item.Bronze Ingot> * 9, [<customitems:block_of_bronze>]);
+recipes.addShapeless(<terrafirmacraft:item.Lead Ingot> * 9, [<customitems:block_of_lead>]);
+recipes.addShapeless(<terrafirmacraft:item.Silver Ingot> * 9, [<customitems:block_of_silver>]);
+recipes.addShapeless(<terrafirmacraft:item.Steel Ingot> * 9, [<customitems:block_of_steel>]);
+recipes.addShapeless(<terrafirmacraft:item.Tin Ingot> * 9, [<customitems:block_of_tin>]);
+recipes.addShapeless(<terrafirmacraft:item.Bismuth Bronze Ingot> * 9, [<customitems:block_of_bismuth_bronze>]);
+recipes.addShapeless(<terrafirmacraft:item.Black Bronze Ingot> * 9, [<customitems:block_of_black_bronze>]);
+recipes.addShapeless(<terrafirmacraft:item.Black Steel Ingot> * 9, [<customitems:block_of_black_steel>]);
+recipes.addShapeless(<terrafirmacraft:item.Blue Steel Ingot> * 9, [<customitems:block_of_blue_steel>]);
+recipes.addShapeless(<terrafirmacraft:item.Brass Ingot> * 9, [<customitems:block_of_brass>]);
+recipes.addShapeless(<terrafirmacraft:item.Nickel Ingot> * 9, [<customitems:block_of_nickel>]);
+recipes.addShapeless(<terrafirmacraft:item.Pig Iron Ingot> * 9, [<customitems:block_of_pig_iron>]);
+recipes.addShapeless(<terrafirmacraft:item.Platinum Ingot> * 9, [<customitems:block_of_platinum>]);
+recipes.addShapeless(<terrafirmacraft:item.Red Steel Ingot> * 9, [<customitems:block_of_red_steel>]);
+recipes.addShapeless(<terrafirmacraft:item.Sterling Silver Ingot> * 9, [<customitems:block_of_sterling_silver>]);
+recipes.addShapeless(<terrafirmacraft:item.Unknown Ingot> * 9, [<customitems:block_of_unknown_metal>]);
+recipes.addShapeless(<terrafirmacraft:item.Zinc Ingot> * 9, [<customitems:block_of_zinc>]);

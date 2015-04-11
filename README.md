@@ -16,6 +16,4 @@ To Install
 - Copy the Custom items config in the config folder.
 
 Credit
-
-- TFC wood - Faithful
-- Wood Blinds - Blockhead
+Look on TFC forum : http://terrafirmacraft.com/f/topic/8149-7917-terrafirmachisel-beta/

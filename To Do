@@ -1,11 +1,31 @@
-- Add chisel recipe
+
 - Improve compatibility of Chisel 2 blocks recipe
+ - Add metal blocks recipe
+
+ - Add Missing metal blocks
+
 - Create smoothstone and bricks groups
+
 - Add new variation
  - Plank
-  - 
+  - Sheet
+  - Chaotic
+  - Chaotic-hor
+  - Crate
+  - Carateex
+  - crate-fancy
+  - double-side
+  - double-top
+  - fancy
+  - large
+  - panel-nails
+  - parquet
+  - short
  - Smoothstone
-  -
+  - Pillar
+  - Ornate
  - Bricks
-  -
-- Add jet block (and recipe)
+  - Small tiles (2x2)
+  - Prismatic
+ - Metal blocks
+  * 6 variations

@@ -1,0 +1,205 @@
+{
+	"blocks":
+	[
+		{
+		"name": "Block of Bismuth",
+		"material": "iron",
+		"hardness": 5,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 30,
+		"textureName": "bismuth",
+		"toolClass":"pickaxe"
+		},
+		{
+		"name": "Block of Bismuth Bronze",
+		"material": "iron",
+		"hardness": 5,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 30,
+		"textureName": "bismuthbronze",
+		"toolClass":"pickaxe"
+		},
+		{
+		"name": "Block of Black Bronze",
+		"material": "iron",
+		"hardness": 5,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 30,
+		"textureName": "blackbronze",
+		"toolClass":"pickaxe"
+		},
+		{
+		"name": "Block of Black Steel",
+		"material": "iron",
+		"hardness": 5,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 30,
+		"textureName": "blacksteel",
+		"toolClass":"pickaxe"
+		},
+		{
+		"name": "Block of Blue steel",
+		"material": "iron",
+		"hardness": 5,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 30,
+		"textureName": "bluesteel",
+		"toolClass":"pickaxe"
+		},
+		{
+		"name": "Block of Brass",
+		"material": "iron",
+		"hardness": 5,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 30,
+		"textureName": "brass",
+		"toolClass":"pickaxe"
+		},
+		{
+		"name": "Block of Bronze",
+		"material": "iron",
+		"hardness": 5,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 30,
+		"textureName": "bronze",
+		"toolClass":"pickaxe"
+		},
+		{
+		"name": "Block of Copper",
+		"material": "iron",
+		"hardness": 5,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 30,
+		"textureName": "copper",
+		"toolClass":"pickaxe"
+		},
+		{
+		"name": "Block of Lead",
+		"material": "iron",
+		"hardness": 5,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 30,
+		"textureName": "lead",
+		"toolClass":"pickaxe"
+		},
+		{
+		"name": "Block of Nickel",
+		"material": "iron",
+		"hardness": 5,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 30,
+		"textureName": "nickel",
+		"toolClass":"pickaxe"
+		},
+		{
+		"name": "Block of Pig Iron",
+		"material": "iron",
+		"hardness": 5,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 30,
+		"textureName": "pigiron",
+		"toolClass":"pickaxe"
+		},
+		{
+		"name": "Block of Platinum",
+		"material": "iron",
+		"hardness": 5,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 30,
+		"textureName": "platinum",
+		"toolClass":"pickaxe"
+		},
+		{
+		"name": "Block of Red Steel",
+		"material": "iron",
+		"hardness": 5,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 30,
+		"textureName": "redsteel",
+		"toolClass":"pickaxe"
+		},
+		{
+		"name": "Block of Rose Gold",
+		"material": "iron",
+		"hardness": 5,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 30,
+		"textureName": "rosegold",
+		"toolClass":"pickaxe"
+		},
+		{
+		"name": "Block of Silver",
+		"material": "iron",
+		"hardness": 5,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 30,
+		"textureName": "silver",
+		"toolClass":"pickaxe"
+		},
+		{
+		"name": "Block of Steel",
+		"material": "iron",
+		"hardness": 5,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 30,
+		"textureName": "steel",
+		"toolClass":"pickaxe"
+		},
+		{
+		"name": "Block of Sterling Silver",
+		"material": "iron",
+		"hardness": 5,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 30,
+		"textureName": "sterlingsilver",
+		"toolClass":"pickaxe"
+		},
+		{
+		"name": "Block of Tin",
+		"material": "iron",
+		"hardness": 5,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 30,
+		"textureName": "tin",
+		"toolClass":"pickaxe"
+		},
+		{
+		"name": "Block of Zinc",
+		"material": "iron",
+		"hardness": 5,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 30,
+		"textureName": "zinc",
+		"toolClass":"pickaxe"
+		},
+		{
+		"name": "Block of Unknown Metal",
+		"material": "iron",
+		"hardness": 5,
+		"creativeTab":"TerraFirmaChisel",
+		"maxStackSize":"32",
+		"resistance": 30,
+		"textureName": "unknown",
+		"toolClass":"pickaxe"
+		}
+	]
+}
