@@ -1,3 +1,5 @@
+//For new recipe involving Chisel 2 items only.
+
 //Chisel
 recipes.addShapeless(<chisel:diamondChisel>, [<terrafirmacraft:item.Black Steel Chisel Head>, <ore:stickWood>, <ore:stickWood>]);
 recipes.addShapeless(<chisel:diamondChisel>, [<terrafirmacraft:item.Red Steel Chisel Head>, <ore:stickWood>, <ore:stickWood>]);
@@ -31,6 +33,11 @@ recipes.addShaped(<chisel:waterstone> * 8, [[<ore:stone>, <ore:stone>, <ore:ston
 recipes.addShaped(<chisel:nation> * 32, [[<ore:stone>, <ore:ingotWroughtIron>, <ore:stone>], [<ore:ingotWroughtIron>, <ore:nuggetGold>, <ore:ingotWroughtIron>], [<ore:stone>, <ore:ingotWroughtIron>, <ore:stone>]]);
 recipes.addShaped(<chisel:fantasyblock> * 8, [[<ore:stone>, <ore:stone>, <ore:stone>], [<ore:stone>, <ore:nuggetGold>, <ore:stone>], [<ore:stone>, <ore:stone>, <ore:stone>]]);
 
-//Metal blocks
-
 //Groups for carpet
+
+
+//Thatch
+mods.chisel.Groups.addGroup("thatch");
+mods.chisel.Groups.addVariation("ash_planks",<terrafirmacraft:thatch>);
+mods.chisel.Groups.addVariation("ash_planks",<minecraft:hay_block>);
+recipes.removeShapeless(<minecraft:wheat> * 9, [<minecraft:hay_block>]);

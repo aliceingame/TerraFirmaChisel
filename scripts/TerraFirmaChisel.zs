@@ -1,3 +1,5 @@
+//For new recipe involving Chisel 2 and new custom blocks only.
+
 //Plank groups
 mods.chisel.Groups.addGroup("ash_planks");
 mods.chisel.Groups.addGroup("aspen_planks");
@@ -13,7 +15,7 @@ mods.chisel.Groups.addGroup("whitecedar_planks");
 mods.chisel.Groups.addGroup("whiteelm_planks");
 mods.chisel.Groups.addGroup("willow_planks");
 
-//Variations
+//Plank variations
 //TFC planks
 mods.chisel.Groups.addVariation("ash_planks",<terrafirmacraft:planks:7>);
 mods.chisel.Groups.addVariation("aspen_planks",<terrafirmacraft:planks:1>);
@@ -76,3 +78,22 @@ mods.chisel.Groups.addVariation("acacia_planks",<chisel:acacia_planks:1>);
 mods.chisel.Groups.addVariation("birch_planks",<chisel:birch_planks:1>);
 mods.chisel.Groups.addVariation("oak_planks",<chisel:oak_planks:1>);
 mods.chisel.Groups.addVariation("spruce_planks",<chisel:spruce_planks:1>);
+
+
+//Smooth stone groups
+
+//Smooth stone variations
+
+
+//Brick groups
+
+//Brick variations
+
+
+//Metal blocks groups
+
+//Ingots to Metal block recipe
+
+//Metal block to ingots recipe
+
+//Metal blocks variations
